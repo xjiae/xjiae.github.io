@@ -37,7 +37,8 @@ Neural Information Processing Systems (NeurIPS) 2025, Lock-LLM Workshop.<br>
 <img src="/files/images/smile.png" alt="SMILE Project" style="width: 200px; margin-right: 15px; border-radius: 10px;">
 <div>
 <strong style="font-size: 18px;">SMILE: Sensing and Mitigating Loneliness in older adults with diffusion-based counterfactual Explanations</strong><br>
-<i>ACM Transactions on Computing for Healthcare (HEALTH) 2025</i><br>
+<i>Xiayan Ji, Ahhyun Yuh, Viktor Erdélyi, Teruhiro Mizumoto, Hyonyoung Choi, Sean Harrison, Emma Cho, Takashi Suehiro, Takeshi Nakagawa, Yutian Cheng, Gondo Yasuyuki, Hajime Nagahara, Teruo Higashino, George Demiris, Oleg Sokolsky, Insup Lee</i><br>
+ACM Transactions on Computing for Healthcare (HEALTH) 2025<br>
 <p>An approach for detecting and mitigating social isolation through personalized interventions.</p>
 </div>
 </div>
