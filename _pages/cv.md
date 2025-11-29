@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* 2025-Present: Applied Scientist
+* Applied Scientist, 2025 - Present
   * Amazon Web Services, New York 
 
 <!-- * Summer 2024: Applied Scientist Intern
