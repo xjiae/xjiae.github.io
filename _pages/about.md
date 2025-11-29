@@ -23,7 +23,7 @@ I am an Applied Scientist at AWS. I obtained by PhD from University of Pennsylva
 
 # Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-<img src="" alt="AR-Pro Paper" style="width: 200px; margin-right: 15px; border-radius: 10px;">
+<img src="/files/images/pastral.png" alt="AR-Pro Paper" style="width: 200px; margin-right: 15px; border-radius: 10px;">
 <div>
 <strong style="font-size: 18px;">PASTRAL: Privacy-aware AST and TRansformer-based Anomalous command-Line detection</strong><br>
 <i>Xiayan Ji, Ecenaz Erdemir, Kyuhong Park, Bhavna Soman, Yi Fan</i><br>
@@ -128,7 +128,7 @@ IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering T
 <img src="/files/images/mina.png" alt="MINA Project" style="width: 200px; margin-right: 15px; border-radius: 10px;">
 <div>
 <strong style="font-size: 18px;">Text-Enriched Hierarchical Graph Anomaly Detection with Uncertainty Detection</strong><br>
-<i>Xiayan Ji, John Richardson, Adrienne Raglin, Oleg Sokolsky, Insup Lee</i><br>Aberdeen Proving Ground (MD): Army Research Laboratory (US); 2025 SEP.  Report No.: ARL-TR-10219.</i><br>
+<i>Xiayan Ji, John Richardson, Adrienne Raglin, Oleg Sokolsky, Insup Lee</i><br>Aberdeen Proving Ground (MD): Army Research Laboratory (US); 2025 SEP.  Report No.: ARL-TR-10219.<br>
 <a href="/files/papers/tag.pdf">PDF</a>
 <p>An framework leveraging LLMs for graph-based anomaly detection with uncertainty quantification.</p>
 </div>
