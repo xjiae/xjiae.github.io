@@ -8,6 +8,16 @@ author_profile: true
 
 
 ## Conference Publications
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<img src="" alt="AR-Pro Paper" style="width: 200px; margin-right: 15px; border-radius: 10px;">
+<div>
+<strong style="font-size: 18px;">APASTRAL: Privacy-aware AST and TRansformer-based Anomalous command-Line detection</strong><br>
+<i>Xiayan Ji, Ecenaz Erdemir, Kyuhong Park, Bhavna Soman, Yi Fan</i><br>
+Neural Information Processing Systems (NeurIPS) 2025, Lock-LLM Workshop.<br>
+<a href="https://openreview.net/pdf?id=SQG39SAI2b">PDF</a>
+<p>Privacy-preserving suspicious command-line detection with differential privacy.</p>
+</div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <img src="/files/images/pcb4.gif" alt="AR-Pro Paper" style="width: 200px; margin-right: 15px; border-radius: 10px;">

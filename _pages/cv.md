@@ -9,16 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in in Computer and Information Science, University of Pennsylvania, 2025 (expected)
-* M.S. in Computer and Information Technology, 	University of Pennsylvania, 2020
-* B.S. in Economics and Finance, minor in IT, The Hong Kong University of Science and Technology, 2018
-
-
 Work experience
 ======
-* Summer 2024: Applied Scientist Intern
+* 2025-Present: Applied Scientist
+  * Amazon Web Services, New York 
+
+<!-- * Summer 2024: Applied Scientist Intern
   * Amazon Web Services, New York 
   * Project summary: malicious command line detection using LLM and Abstract Syntax Tree (AST) 
   * Supervisor: Ecenaz Erdemir and Yi Fan
@@ -31,7 +27,13 @@ Work experience
 * Summer 2019: Research Assistant
   * Cornell University
   * Project summary: tracking the 3D position of the arm when doing exercise using a single commodity smartwatch
-  * Supervisor: Prof. Cheng Zhang
+  * Supervisor: Prof. Cheng Zhang -->
+
+Education
+======
+* Ph.D in in Computer and Information Science, University of Pennsylvania
+* M.S. in Computer and Information Technology, 	University of Pennsylvania
+* B.S. in Economics and Finance, minor in IT, The Hong Kong University of Science and Technology
 
   
 Skills
@@ -40,8 +42,6 @@ Skills
   * Python, Java, C++, C, Matlab, R, LaTeX
 * Frameworks
   * PyTorch, Tensorflow
-* Language
-  * English, Mandarin, Cantonese, Teochew dialect
 
 <!-- Publications
 ======

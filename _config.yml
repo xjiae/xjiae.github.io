@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Xiayan Ji (纪夏妍)"
-description              : &description "Ph.D. Student at University of Pennsylvania"
+name                     : &name "Xiayan Ji"
+description              : &description ""
 url                      : https://xjiae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/xjiae.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xiayan Ji"
   avatar           : "profile_pic.jpeg"
-  bio              : "CIS Ph.D. student at University of Pennsylvania"
-  location         : "Philadelphia, Pennsylvania"
+  bio              : ""
+  location         : "New York"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=dChT9WwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=5TBceToAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
