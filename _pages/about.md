@@ -20,7 +20,7 @@ I am an Applied Scientist at AWS. I obtained by PhD from the University of Penns
 - Cyber-physical systems
 
 
-#
+# 
 # Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
 <img src="/files/images/pastral.png" alt="AR-Pro Paper" style="width: 200px; margin-right: 15px; border-radius: 10px;">
