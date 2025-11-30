@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 
-I am an Applied Scientist at AWS. I obtained by PhD from the University of Pennsylvania, I am fortunate to be advised by [Prof. Insup Lee](https://www.cis.upenn.edu/~lee/home/index.shtml) and [Prof. Oleg Sokolsky](https://www.cis.upenn.edu/~sokolsky/). I am broadly interested in:
+I am an Applied Scientist at AWS. I obtained my PhD from the University of Pennsylvania, I am fortunate to be advised by [Prof. Insup Lee](https://www.cis.upenn.edu/~lee/home/index.shtml) and [Prof. Oleg Sokolsky](https://www.cis.upenn.edu/~sokolsky/). I am broadly interested in:
 
 
 - Agentic system orchestration
